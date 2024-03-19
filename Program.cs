@@ -5,6 +5,7 @@ using _30DayChallenge.Net.Day2;
 using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
 using _30DayChallenge.Net.Day5;
+using _30DayChallenge.Net.Day6;
 
 #region Day 1 - Expressions
 
@@ -25,7 +26,6 @@ CodeBlocksAndScope.VariableAboveCodeBlockv1();
 
 #endregion
 
-
 #region Day 3 - Switch Constructs
 
 Switch.SwitchExample();
@@ -43,11 +43,18 @@ ForLoops.BreakForLoopExample();
 
 #endregion
 
-
 #region Day 5 - While & do-while
 
 WhileLoop.DoWhileLoopExample();
 WhileLoop.WhileLoopExample();
 WhileLoop.ContinueDoWhileLoopExample();
+
+#endregion
+
+#region Day 6 - String built-in methods
+
+StringMethods.IndexOfExample();
+StringMethods.SubstringExample();
+StringMethods.SubstringExample2();
 
 #endregion
