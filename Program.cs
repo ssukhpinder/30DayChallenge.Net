@@ -34,3 +34,11 @@ Switch.MultipleSwitchLabelExample();
 
 #endregion
 
+#region Day 4 - For Loops
+
+ForLoops.ForLoopExample();
+ForLoops.BackwardForLoopExample();
+ForLoops.IterationForLoopExample();
+ForLoops.BreakForLoopExample();
+
+#endregion
