@@ -7,6 +7,7 @@ using _30DayChallenge.Net.Day4;
 using _30DayChallenge.Net.Day5;
 using _30DayChallenge.Net.Day6;
 using _30DayChallenge.Net.Day7;
+using _30DayChallenge.Net.Day8;
 
 #region Day 1 - Expressions
 
@@ -64,5 +65,12 @@ StringMethods.SubstringExample2();
 
 StringMethodsPart2.IndexOfAnyMethod();
 StringMethodsPart2.LastIndexOfMethod();
+
+#endregion
+
+#region Day 8 - Exception Handling
+
+ExceptionHandling.SimpleExceptionBlock();
+ExceptionHandling.NestedExceptionBlock();
 
 #endregion
