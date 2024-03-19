@@ -1,12 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
-#region Day 1 - Expressions
-
 using _30DayChallenge.Net.Day1;
 using _30DayChallenge.Net.Day2;
 using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
+using _30DayChallenge.Net.Day5;
+
+#region Day 1 - Expressions
 
 Expressions.CheckEqualityOperator();
 Expressions.CheckEqualityBuiltInMethods();
@@ -40,5 +40,14 @@ ForLoops.ForLoopExample();
 ForLoops.BackwardForLoopExample();
 ForLoops.IterationForLoopExample();
 ForLoops.BreakForLoopExample();
+
+#endregion
+
+
+#region Day 5 - While & do-while
+
+WhileLoop.DoWhileLoopExample();
+WhileLoop.WhileLoopExample();
+WhileLoop.ContinueDoWhileLoopExample();
 
 #endregion
