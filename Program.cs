@@ -5,6 +5,8 @@
 
 using _30DayChallenge.Net.Day1;
 using _30DayChallenge.Net.Day2;
+using _30DayChallenge.Net.Day3;
+using _30DayChallenge.Net.Day4;
 
 Expressions.CheckEqualityOperator();
 Expressions.CheckEqualityBuiltInMethods();
@@ -22,3 +24,13 @@ CodeBlocksAndScope.VariableAboveCodeBlock();
 CodeBlocksAndScope.VariableAboveCodeBlockv1();
 
 #endregion
+
+
+#region Day 3 - Switch Constructs
+
+Switch.SwitchExample();
+Switch.ChangeSwitchLabelExample();
+Switch.MultipleSwitchLabelExample();
+
+#endregion
+
