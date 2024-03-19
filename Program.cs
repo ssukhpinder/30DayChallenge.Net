@@ -6,6 +6,7 @@ using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
 using _30DayChallenge.Net.Day5;
 using _30DayChallenge.Net.Day6;
+using _30DayChallenge.Net.Day7;
 
 #region Day 1 - Expressions
 
@@ -56,5 +57,12 @@ WhileLoop.ContinueDoWhileLoopExample();
 StringMethods.IndexOfExample();
 StringMethods.SubstringExample();
 StringMethods.SubstringExample2();
+
+#endregion
+
+#region Day 7 - String built-in methods Part 2
+
+StringMethodsPart2.IndexOfAnyMethod();
+StringMethodsPart2.LastIndexOfMethod();
 
 #endregion
