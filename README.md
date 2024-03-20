@@ -1,2 +1,17 @@
-# 30DayChallenge.Net
- 
+# 30 Day Challenge .Net
+The repository contains sample sources from a 30-day challenge focused on mastering various concepts of C#.
+
+# Tutorials on Medium
+
+| S.No. | 30 Day .Net Challenge    | Tutorial |
+| -------- | -------- | ------- |
+| Day 1 | Boolean Expressions  | [Link](https://singhsukhpinder.medium.com/day-1-of-30-day-net-challenge-boolean-expressions-0389d2f08ae9?sk=194d01eb816804773010613fa10ae6fe)   |
+
+
+# Where to find me
+
+<p><a href="https://github.com/ssukhpinder" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/sukhsukhpinder" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/sukhpinder-singh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@singhsukhpinder" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+<a href="https://www.buymeacoffee.com/sukhpindersingh" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
