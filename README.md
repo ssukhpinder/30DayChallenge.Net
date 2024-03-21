@@ -6,7 +6,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | S.No. | 30 Day .Net Challenge    | Tutorial |
 | -------- | -------- | ------- |
 | Day 1 | Boolean Expressions  | [Link](https://singhsukhpinder.medium.com/day-1-of-30-day-net-challenge-boolean-expressions-0389d2f08ae9?sk=194d01eb816804773010613fa10ae6fe)   |
-
+| Day 2 | Variable Scope & Logic Control   | [Link](https://medium.com/@singhsukhpinder/variable-scope-logic-control-with-code-blocks-in-c-a815340a8639?sk=d93c57d605868048a72c2c5fbd6cc7a9)   |
 
 # Where to find me
 
