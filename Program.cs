@@ -8,6 +8,7 @@ using _30DayChallenge.Net.Day5;
 using _30DayChallenge.Net.Day6;
 using _30DayChallenge.Net.Day7;
 using _30DayChallenge.Net.Day8;
+using _30DayChallenge.Net.Day9;
 
 #region Day 1 - Expressions
 
@@ -72,5 +73,12 @@ StringMethodsPart2.LastIndexOfMethod();
 
 ExceptionHandling.SimpleExceptionBlock();
 ExceptionHandling.NestedExceptionBlock();
+
+#endregion
+
+#region Day 9 - Null Safety
+
+NullSafety.Unsafe();
+NullSafety.SafeExample();
 
 #endregion
