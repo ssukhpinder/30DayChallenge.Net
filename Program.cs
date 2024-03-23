@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using _30DayChallenge.Net.Day1;
+using _30DayChallenge.Net.Day10;
 using _30DayChallenge.Net.Day2;
 using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
@@ -80,5 +81,14 @@ ExceptionHandling.NestedExceptionBlock();
 
 NullSafety.Unsafe();
 NullSafety.SafeExample();
+
+#endregion
+
+#region Day 10 - File Path
+
+FilePath.DisplayCurrentDirectory();
+FilePath.DisplaySpecialDirectory();
+FilePath.DisplayOSPathCharacters();
+FilePath.DisplayFileExtension();
 
 #endregion
