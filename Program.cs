@@ -2,6 +2,7 @@
 
 using _30DayChallenge.Net.Day1;
 using _30DayChallenge.Net.Day10;
+using _30DayChallenge.Net.Day11;
 using _30DayChallenge.Net.Day2;
 using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
@@ -90,5 +91,14 @@ FilePath.DisplayCurrentDirectory();
 FilePath.DisplaySpecialDirectory();
 FilePath.DisplayOSPathCharacters();
 FilePath.DisplayFileExtension();
+
+#endregion
+
+#region Day 11 - Helper Methods  -  Array
+
+ArrayHelperMethods.SortExample();
+ArrayHelperMethods.ReverseSortExample();
+ArrayHelperMethods.ClearExample();
+ArrayHelperMethods.ResizeAndAdd();
 
 #endregion
