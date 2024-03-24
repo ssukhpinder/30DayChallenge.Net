@@ -23,7 +23,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 
 Thank you for being a part of the C# community! Before you leave:
 
-#### If you’ve made it this far, please show your appreciation with a clap and follow the author! 👏️️
+#### If you’ve made it this far, please show your appreciation with a star and follow the author! 👏️️
 
 Follow us: [X](https://twitter.com/sukhsukhpinder) | [LinkedIn](https://www.linkedin.com/in/sukhpinder-singh/) | [Dev.to](https://dev.to/ssukhpinder) | [Hashnode](https://dotnet.hashnode.dev/) | [Newsletter](https://www.linkedin.com/newsletters/net-programming-7031098498754195456/) | [Tumblr](https://www.tumblr.com/settings/blog/codewithsukh)
 
