@@ -10,7 +10,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 03 | Switch Constructs   | [Link](https://singhsukhpinder.medium.com/day-3-of-30-day-net-challenge-switch-constructs-c29270726302?sk=7b2afcc8f3e752f86c2bd8fec93ff33e)   |
 | Day 04 | For Loops   | [Link](https://singhsukhpinder.medium.com/day-4-of-30-day-net-challenge-for-loops-0ab95ca30600?sk=4898e5ac532b35c9904c67251dc66323)   |
 | Day 05 | While & do-while   | [Link](https://singhsukhpinder.medium.com/day-5-of-30-day-net-challenge-while-do-while-1517bee43cfb)   |
-| Day 06 | String built-in methods | Coming Soon   |
+| Day 06 | String built-in methods | [Link](https://medium.com/@singhsukhpinder/day-6-of-30-day-net-challenge-string-built-in-methods-26ded768d07c?sk=8584a431e5a6b04a9b06ceb0c23f2975)   |
 | Day 07 | String built-in methods Part 2   |  Coming Soon   |
 | Day 08 | Exception Handling   |  Coming Soon   |
 | Day 09 | Null Safety   |  Coming Soon   |
