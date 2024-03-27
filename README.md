@@ -12,7 +12,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 05 | While & do-while   | [Link](https://singhsukhpinder.medium.com/day-5-of-30-day-net-challenge-while-do-while-1517bee43cfb)   |
 | Day 06 | String built-in methods | [Link](https://medium.com/@singhsukhpinder/day-6-of-30-day-net-challenge-string-built-in-methods-26ded768d07c?sk=8584a431e5a6b04a9b06ceb0c23f2975)   |
 | Day 07 | String built-in methods Part 2   |  [Link](https://singhsukhpinder.medium.com/day-7-of-30-day-net-challenge-string-built-in-methods-part-2-53f29be9902d?sk=4aba7b3b7810337315d3bd3d7c21ffab])   |
-| Day 08 | Exception Handling   |  Coming Soon   |
+| Day 08 | Exception Handling   |  [Link](https://medium.com/@singhsukhpinder/day-8-of-30-day-net-challenge-exception-handling-65814aaa5994?sk=c40fd301ca43a2d6186dd6c772da7535)   |
 | Day 09 | Null Safety   |  Coming Soon   |
 | Day 10 | File Paths   |  Coming Soon   |
 | Day 11 | Helper Methods - Array   |  Coming Soon   |
