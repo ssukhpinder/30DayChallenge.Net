@@ -3,6 +3,7 @@
 using _30DayChallenge.Net.Day1;
 using _30DayChallenge.Net.Day10;
 using _30DayChallenge.Net.Day11;
+using _30DayChallenge.Net.Day13;
 using _30DayChallenge.Net.Day2;
 using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
@@ -100,5 +101,20 @@ ArrayHelperMethods.SortExample();
 ArrayHelperMethods.ReverseSortExample();
 ArrayHelperMethods.ClearExample();
 ArrayHelperMethods.ResizeAndAdd();
+
+#endregion
+
+#region Day 12 - Azure Functions
+
+// Set the Azure Function Example as startup project and run locally.
+// The class created under Day 12 folder is for demonstration purposes, cannot be invoked from console application.
+// Follow the tutorial link: 
+
+#endregion
+
+#region Day 13: ConfigureAwait(false)
+
+await ConfigureAwait.OldApproach();
+ConfigureAwait.OptimizedApproachAsync().ConfigureAwait(false);
 
 #endregion
