@@ -4,6 +4,7 @@ using _30DayChallenge.Net.Day1;
 using _30DayChallenge.Net.Day10;
 using _30DayChallenge.Net.Day11;
 using _30DayChallenge.Net.Day13;
+using _30DayChallenge.Net.Day14;
 using _30DayChallenge.Net.Day2;
 using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
@@ -116,5 +117,13 @@ ArrayHelperMethods.ResizeAndAdd();
 
 await ConfigureAwait.OldApproach();
 ConfigureAwait.OptimizedApproachAsync().ConfigureAwait(false);
+
+#endregion
+
+#region Day 14: Limit Concurrency
+
+// The idea is to demonstrate the concept, no output for simplicity
+LimitConcurrency.OldApproach(null).ConfigureAwait(false);
+LimitConcurrency.OptimizedApproachAsync(null).ConfigureAwait(false);
 
 #endregion
