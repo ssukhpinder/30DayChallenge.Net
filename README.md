@@ -13,9 +13,9 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 06 | String built-in methods | [Link](https://medium.com/@singhsukhpinder/day-6-of-30-day-net-challenge-string-built-in-methods-26ded768d07c?sk=8584a431e5a6b04a9b06ceb0c23f2975)   |
 | Day 07 | String built-in methods Part 2   |  [Link](https://singhsukhpinder.medium.com/day-7-of-30-day-net-challenge-string-built-in-methods-part-2-53f29be9902d?sk=4aba7b3b7810337315d3bd3d7c21ffab])   |
 | Day 08 | Exception Handling   |  [Link](https://medium.com/@singhsukhpinder/day-8-of-30-day-net-challenge-exception-handling-65814aaa5994?sk=c40fd301ca43a2d6186dd6c772da7535)   |
-| Day 09 | Null Safety   |  Coming Soon   |
-| Day 10 | File Paths   |  Coming Soon   |
-| Day 11 | Helper Methods - Array   |  Coming Soon   |
+| Day 09 | Null Safety   |  [Link](https://medium.com/c-sharp-progarmming/day-9-of-30-day-net-challenge-null-safety-062cc10d5023)  |
+| Day 10 | File Paths   |  [Link](https://medium.com/c-sharp-progarmming/day-10-of-30-day-net-challenge-file-paths-ef6803ea16c9?sk=1d9ad837c33a2de69ea8d5786fbe891d)   |
+| Day 11 | Helper Methods - Array   |  [Link](https://medium.com/c-sharp-progarmming/day-11-of-30-day-net-challenge-helper-methods-array-59061f037c6b?sk=c543b4532231fb34367a5fdb25da4af0)   |
 
 # Where to find me
 
