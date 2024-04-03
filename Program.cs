@@ -1,11 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
 using _30DayChallenge.Net.Day1;
-using _30DayChallenge.Net.Day10;
-using _30DayChallenge.Net.Day11;
-using _30DayChallenge.Net.Day13;
-using _30DayChallenge.Net.Day14;
-using _30DayChallenge.Net.Day15;
 using _30DayChallenge.Net.Day2;
 using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
@@ -14,6 +9,12 @@ using _30DayChallenge.Net.Day6;
 using _30DayChallenge.Net.Day7;
 using _30DayChallenge.Net.Day8;
 using _30DayChallenge.Net.Day9;
+using _30DayChallenge.Net.Day10;
+using _30DayChallenge.Net.Day11;
+using _30DayChallenge.Net.Day13;
+using _30DayChallenge.Net.Day14;
+using _30DayChallenge.Net.Day15;
+using _30DayChallenge.Net.Day16;
 
 #region Day 1 - Expressions
 
@@ -140,5 +141,17 @@ new Lazy<ExpensiveObject>().Value.UseResource();
 
 Console.WriteLine("Press any key to exit...");
 Console.ReadKey();
+
+#endregion
+
+#region Day 16: In-Memory Cache
+
+Console.WriteLine("Fetching product with ID 1 for the first time:");
+var product = InMemoryCache.GetProductById(1);
+Console.WriteLine($"Product Name: {product.Name}\n");
+
+Console.WriteLine("Fetching product with ID 1 again:");
+product = InMemoryCache.GetProductById(1); // This time, it should come from the cache
+Console.WriteLine($"Product Name: {product.Name}\n");
 
 #endregion
