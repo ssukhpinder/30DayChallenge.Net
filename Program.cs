@@ -16,6 +16,7 @@ using _30DayChallenge.Net.Day14;
 using _30DayChallenge.Net.Day15;
 using _30DayChallenge.Net.Day16;
 using _30DayChallenge.Net.Day17;
+using _30DayChallenge.Net.Day18;
 
 #region Day 1 - Expressions
 
@@ -160,5 +161,12 @@ Console.WriteLine($"Product Name: {product.Name}\n");
 #region Day 17: Increment Class
 
 IncrementClass.TestIncrementCounter();
+
+#endregion
+
+#region Day 18: AggressiveInlining Attribute
+
+AggressiveInlining.MultiplyByTwo(10);
+AggressiveInlining.MultiplyByTwoWithAggressiveInlining(10);
 
 #endregion
