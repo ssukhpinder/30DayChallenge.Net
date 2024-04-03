@@ -8,16 +8,16 @@ namespace _30DayChallenge.Net.Day19
 {
     public static class StackVsHeap
     {
-        public static string InefficientMethod(int index)
+        public static void InefficientMethod(int index)
         {
             // Inefficient: Creates a new string object on the heap
-            return new string($"User{index}".ToCharArray());
+            Console.WriteLine(new string($"User{index}".ToCharArray()));
         }
 
-        public static string EfficientMethod(int index)
+        public static void EfficientMethod(int index)
         {
             // Efficient: Avoids unnecessary heap allocation
-            return $"User{index}";
+            Console.WriteLine($"User{index}");
         }
     }
 }
