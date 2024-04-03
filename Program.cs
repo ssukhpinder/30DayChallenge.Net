@@ -5,6 +5,7 @@ using _30DayChallenge.Net.Day10;
 using _30DayChallenge.Net.Day11;
 using _30DayChallenge.Net.Day13;
 using _30DayChallenge.Net.Day14;
+using _30DayChallenge.Net.Day15;
 using _30DayChallenge.Net.Day2;
 using _30DayChallenge.Net.Day3;
 using _30DayChallenge.Net.Day4;
@@ -125,5 +126,19 @@ ConfigureAwait.OptimizedApproachAsync().ConfigureAwait(false);
 // The idea is to demonstrate the concept, no output for simplicity
 LimitConcurrency.OldApproach(null).ConfigureAwait(false);
 LimitConcurrency.OptimizedApproachAsync(null).ConfigureAwait(false);
+
+#endregion
+
+#region Day 15: Lazy Initialization
+
+Console.WriteLine("Application started.");
+Console.WriteLine("Press any key to use the expensive resource...");
+Console.ReadKey();
+
+// Accessing the Value property of _lazyExpensiveResource for the first time triggers the initialization.
+new Lazy<ExpensiveObject>().Value.UseResource();
+
+Console.WriteLine("Press any key to exit...");
+Console.ReadKey();
 
 #endregion
