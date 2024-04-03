@@ -41,7 +41,7 @@ namespace _30DayChallenge.Net.Day10
         /// </summary>
         public static void DisplayFileExtension()
         {
-            Console.WriteLine("sample.json");
+            Console.WriteLine(Path.GetExtension("sample.json"));
         }
     }
 }

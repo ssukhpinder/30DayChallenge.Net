@@ -16,6 +16,25 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 09 | Null Safety   |  [Link](https://medium.com/c-sharp-progarmming/day-9-of-30-day-net-challenge-null-safety-062cc10d5023)  |
 | Day 10 | File Paths   |  [Link](https://medium.com/c-sharp-progarmming/day-10-of-30-day-net-challenge-file-paths-ef6803ea16c9?sk=1d9ad837c33a2de69ea8d5786fbe891d)   |
 | Day 11 | Helper Methods - Array   |  [Link](https://medium.com/c-sharp-progarmming/day-11-of-30-day-net-challenge-helper-methods-array-59061f037c6b?sk=c543b4532231fb34367a5fdb25da4af0)   |
+| Day 12 | Azure Functions  |  [Link](https://medium.com/c-sharp-progarmming/day-12-of-30-day-net-challenge-azure-functions-4271627a2e75?sk=1a0d8603627184c17ba3f89792351239)   |
+| Day 13 | ConfigureAwait(false)   |  [Link](https://medium.com/c-sharp-progarmming/day-13-of-the-30-day-net-challenge-configureawait-false-550c728eaa7e?sk=a8b23363c39a361e3d489014f2704b87)   |
+| Day 14 |  Limit Concurrent Async Operations  |  [Link](https://singhsukhpinder.medium.com/day-14-of-30-day-net-challenge-limit-concurrent-async-operations-21bfa4266992?sk=94f9238aec4335c1d3d0cea80e566163)   |
+| Day 15 |  Lazy Initialization  |  [Link](https://medium.com/c-sharp-progarmming/day-15-of-30-day-net-challenge-lazy-initialization-e253756a480b?sk=651159d6fd60614d7a73216e4b370f47)   |
+| Day 16 |    |  Coming Soon   |
+| Day 17 |    |  Coming Soon   |
+| Day 18 |    |  Coming Soon   |
+| Day 19 |    |  Coming Soon   |
+| Day 20 |    |  Coming Soon   |
+| Day 21 |    |  Coming Soon   |
+| Day 22 |    |  Coming Soon   |
+| Day 23 |    |  Coming Soon   |
+| Day 24 |    |  Coming Soon   |
+| Day 25 |    |  Coming Soon   |
+| Day 26 |    |  Coming Soon   |
+| Day 27 |    |  Coming Soon   |
+| Day 28 |    |  Coming Soon   |
+| Day 19 |    |  Coming Soon   |
+| Day 30 |    |  Coming Soon   |
 
 # Where to find me
 
