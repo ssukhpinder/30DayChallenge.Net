@@ -15,6 +15,7 @@ using _30DayChallenge.Net.Day13;
 using _30DayChallenge.Net.Day14;
 using _30DayChallenge.Net.Day15;
 using _30DayChallenge.Net.Day16;
+using _30DayChallenge.Net.Day17;
 
 #region Day 1 - Expressions
 
@@ -153,5 +154,11 @@ Console.WriteLine($"Product Name: {product.Name}\n");
 Console.WriteLine("Fetching product with ID 1 again:");
 product = InMemoryCache.GetProductById(1); // This time, it should come from the cache
 Console.WriteLine($"Product Name: {product.Name}\n");
+
+#endregion
+
+#region Day 17: Increment Class
+
+IncrementClass.TestIncrementCounter();
 
 #endregion
