@@ -21,6 +21,7 @@ using _30DayChallenge.Net.Day19;
 using System.Drawing;
 using _30DayChallenge.Net;
 using _30DayChallenge.Net.Day20;
+using _30DayChallenge.Net.Day21;
 
 
 Console.WriteLine("S.No.\t30 Day .Net Challenge\tTutorial\r\nDay 01\tBoolean Expressions\t\r\nDay 02\tVariable Scope & Logic Control\t\r\nDay 03\tSwitch Constructs\t\r\nDay 04\tFor Loops\t\r\nDay 05\tWhile & do-while\t\r\nDay 06\tString built-in methods\t\r\nDay 07\tString built-in methods Part 2\t\r\nDay 08\tException Handling\t\r\nDay 09\tNull Safety\t\r\nDay 10\tFile Paths\t\r\nDay 11\tHelper Methods - Array\t\r\nDay 12\tAzure Functions\t\r\nDay 13\tConfigureAwait(false)\t\r\nDay 14\tLimit Concurrent Async Operations\t\r\nDay 15\tLazy Initialization\t");
@@ -53,6 +54,7 @@ static string ChooseFrom30DayChallenge(int value)
         (int)_30DayChallengeEnum.Day18 => ExecuteDay18(),
         (int)_30DayChallengeEnum.Day19 => ExecuteDay19(),
         (int)_30DayChallengeEnum.Day20 => ExecuteDay20().Result,
+        (int)_30DayChallengeEnum.Day21 => ExecuteDay21(),
         _ => "invalid day"
     };
 }
@@ -293,6 +295,17 @@ static async Task<string> ExecuteDay20()
     Console.WriteLine(resultValueTask);
 
     return "Executed Day 20 successfully..!!";
+}
+
+#endregion
+
+#region Day 21: String Comparisons
+static string ExecuteDay21()
+{
+    StringComparisons.BadMethod();
+    StringComparisons.GoodMethod();
+
+    return "Executed Day 21 successfully..!!";
 }
 
 #endregion
