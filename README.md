@@ -18,7 +18,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 11 | Helper Methods - Array   |  [Link](https://medium.com/c-sharp-progarmming/day-11-of-30-day-net-challenge-helper-methods-array-59061f037c6b?sk=c543b4532231fb34367a5fdb25da4af0)   |
 | Day 12 | Azure Functions  |  [Link](https://medium.com/c-sharp-progarmming/day-12-of-30-day-net-challenge-azure-functions-4271627a2e75?sk=1a0d8603627184c17ba3f89792351239)   |
 | Day 13 | ConfigureAwait(false)   |  [Link](https://medium.com/c-sharp-progarmming/day-13-of-the-30-day-net-challenge-configureawait-false-550c728eaa7e?sk=a8b23363c39a361e3d489014f2704b87)   |
-| Day 14 |  Lazy Initialization  |  Link[https://medium.com/c-sharp-progarmming/day-15-of-30-day-net-challenge-lazy-initialization-e253756a480b?sk=651159d6fd60614d7a73216e4b370f47]   |
+| Day 14 |  Lazy Initialization  |  [Link](https://medium.com/c-sharp-progarmming/day-15-of-30-day-net-challenge-lazy-initialization-e253756a480b?sk=651159d6fd60614d7a73216e4b370f47)   |
 | Day 15 |    |  Coming Soon   |
 | Day 16 |    |  Coming Soon   |
 | Day 17 |    |  Coming Soon   |
