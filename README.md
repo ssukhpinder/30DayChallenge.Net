@@ -20,7 +20,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 13 | ConfigureAwait(false)   |  [Link](https://medium.com/c-sharp-progarmming/day-13-of-the-30-day-net-challenge-configureawait-false-550c728eaa7e?sk=a8b23363c39a361e3d489014f2704b87)   |
 | Day 14 |  Limit Concurrent Async Operations  |  [Link](https://singhsukhpinder.medium.com/day-14-of-30-day-net-challenge-limit-concurrent-async-operations-21bfa4266992?sk=94f9238aec4335c1d3d0cea80e566163)   |
 | Day 15 |  Lazy Initialization  |  [Link](https://medium.com/c-sharp-progarmming/day-15-of-30-day-net-challenge-lazy-initialization-e253756a480b?sk=651159d6fd60614d7a73216e4b370f47)   |
-| Day 16 |    |  Coming Soon   |
+| Day 16 |  In-Memory Caching  |  [Link](https://medium.com/c-sharp-progarmming/day-16-of-30-day-net-challenge-in-memory-caching-d912545fbee9?sk=034a6df7ad3cc2ef47f59683f7ee656d)   |
 | Day 17 |    |  Coming Soon   |
 | Day 18 |    |  Coming Soon   |
 | Day 19 |    |  Coming Soon   |
