@@ -28,6 +28,9 @@ using _30DayChallenge.Net.Day24;
 using _30DayChallenge.Net.Day25;
 using _30DayChallenge.Net.Day26;
 using _30DayChallenge.Net.Day27;
+using _30DayChallenge.Net.Day28;
+using _30DayChallenge.Net.Day29;
+using _30DayChallenge.Net.Day30;
 
 
 Console.WriteLine("S.No.\t30 Day .Net Challenge\tTutorial\r\nDay 01\tBoolean Expressions\t\r\nDay 02\tVariable Scope & Logic Control\t\r\nDay 03\tSwitch Constructs\t\r\nDay 04\tFor Loops\t\r\nDay 05\tWhile & do-while\t\r\nDay 06\tString built-in methods\t\r\nDay 07\tString built-in methods Part 2\t\r\nDay 08\tException Handling\t\r\nDay 09\tNull Safety\t\r\nDay 10\tFile Paths\t\r\nDay 11\tHelper Methods - Array\t\r\nDay 12\tAzure Functions\t\r\nDay 13\tConfigureAwait(false)\t\r\nDay 14\tLimit Concurrent Async Operations\t\r\nDay 15\tLazy Initialization\t");
@@ -67,6 +70,9 @@ static string ChooseFrom30DayChallenge(int value)
         (int)_30DayChallengeEnum.Day25 => ExecuteDay25(),
         (int)_30DayChallengeEnum.Day26 => ExecuteDay26(),
         (int)_30DayChallengeEnum.Day27 => ExecuteDay27(),
+        (int)_30DayChallengeEnum.Day28 => ExecuteDay28(),
+        (int)_30DayChallengeEnum.Day29 => ExecuteDay29(),
+        (int)_30DayChallengeEnum.Day30 => ExecuteDay30(),
         _ => "invalid day"
     };
 }
@@ -407,6 +413,47 @@ static string ExecuteDay27()
     QueryVsMethod.QuerySyntax();
 
     return "Executed Day 27 successfully..!!";
+}
+
+#endregion
+
+#region Day 28: Use Stackalloc
+static string ExecuteDay28()
+{
+    StackAlloc.BadWay();
+    StackAlloc.GoodWay();
+    
+    return "Executed Day 28 successfully..!!";
+}
+
+#endregion
+
+#region Day 29: Generics & Custom Interfaces
+static string ExecuteDay29()
+{
+    GenericCustomInterfaces.Example();
+
+    return "Executed Day 29 successfully..!!";
+}
+
+#endregion
+
+#region Day 30: Efficient Serialization
+static string ExecuteDay30()
+{
+    Person person = new Person { Name = "John Doe", Age = 30 };
+
+    // XML Serialization
+    string xmlData = EfficientSerialization.XML(person);
+    Console.WriteLine("XML Serialization Output:");
+    Console.WriteLine(xmlData);
+
+    // JSON Serialization
+    string jsonData = EfficientSerialization.JSON(person);
+    Console.WriteLine("JSON Serialization Output:");
+    Console.WriteLine(jsonData);
+
+    return "Executed Day 30 successfully..!!";
 }
 
 #endregion
