@@ -24,6 +24,7 @@ using _30DayChallenge.Net.Day20;
 using _30DayChallenge.Net.Day21;
 using _30DayChallenge.Net.Day22;
 using _30DayChallenge.Net.Day23;
+using _30DayChallenge.Net.Day24;
 
 
 Console.WriteLine("S.No.\t30 Day .Net Challenge\tTutorial\r\nDay 01\tBoolean Expressions\t\r\nDay 02\tVariable Scope & Logic Control\t\r\nDay 03\tSwitch Constructs\t\r\nDay 04\tFor Loops\t\r\nDay 05\tWhile & do-while\t\r\nDay 06\tString built-in methods\t\r\nDay 07\tString built-in methods Part 2\t\r\nDay 08\tException Handling\t\r\nDay 09\tNull Safety\t\r\nDay 10\tFile Paths\t\r\nDay 11\tHelper Methods - Array\t\r\nDay 12\tAzure Functions\t\r\nDay 13\tConfigureAwait(false)\t\r\nDay 14\tLimit Concurrent Async Operations\t\r\nDay 15\tLazy Initialization\t");
@@ -59,6 +60,7 @@ static string ChooseFrom30DayChallenge(int value)
         (int)_30DayChallengeEnum.Day21 => ExecuteDay21(),
         (int)_30DayChallengeEnum.Day22 => ExecuteDay22(),
         (int)_30DayChallengeEnum.Day23 => ExecuteDay23(),
+        (int)_30DayChallengeEnum.Day24 => ExecuteDay24(),
         _ => "invalid day"
     };
 }
@@ -344,6 +346,20 @@ static string ExecuteDay23()
     Span<byte> span = largeData.AsSpan(10, 10); // Creating a span starting at index 10
     SpanOverArray.ProcessData(span);
     return "Executed Day 23 successfully..!!";
+}
+
+#endregion
+
+
+#region Day 23: Avoid Exceptions in Flow Control
+static string ExecuteDay24()
+{
+    Console.WriteLine("Enter a number:");
+
+    string input = Console.ReadLine();
+    AvoidExceptions.BadWay(input);
+    AvoidExceptions.GoodWay(input);
+    return "Executed Day 24 successfully..!!";
 }
 
 #endregion
