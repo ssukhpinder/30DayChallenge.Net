@@ -20,13 +20,13 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 13 | ConfigureAwait(false)   |  [Link](https://medium.com/c-sharp-progarmming/day-13-of-the-30-day-net-challenge-configureawait-false-550c728eaa7e?sk=a8b23363c39a361e3d489014f2704b87)   |
 | Day 14 |  Limit Concurrent Async Operations  |  [Link](https://singhsukhpinder.medium.com/day-14-of-30-day-net-challenge-limit-concurrent-async-operations-21bfa4266992?sk=94f9238aec4335c1d3d0cea80e566163)   |
 | Day 15 |  Lazy Initialization  |  [Link](https://medium.com/c-sharp-progarmming/day-15-of-30-day-net-challenge-lazy-initialization-e253756a480b?sk=651159d6fd60614d7a73216e4b370f47)   |
-| Day 16 |    |  Coming Soon   |
-| Day 17 |    |  Coming Soon   |
-| Day 18 |    |  Coming Soon   |
-| Day 19 |    |  Coming Soon   |
-| Day 20 |    |  Coming Soon   |
-| Day 21 |    |  Coming Soon   |
-| Day 22 |    |  Coming Soon   |
+| Day 16 |  In-Memory Caching  |  [Link](https://medium.com/c-sharp-progarmming/day-16-of-30-day-net-challenge-in-memory-caching-d912545fbee9?sk=034a6df7ad3cc2ef47f59683f7ee656d)   |
+| Day 17 |  Interlocked Class  |  [Link](https://medium.com/c-sharp-progarmming/day-17-of-30-day-net-challenge-interlocked-class-9ea3b07a71b0?sk=f66f8d77acb80e1e95b460ee0c4c191c)   |
+| Day 18 |  AggressiveInlining Attribute  |  [Link](https://singhsukhpinder.medium.com/day-18-of-30-day-net-challenge-aggressiveinlining-attribute-c29cde197065?sk=736c63c59bc2cb5c7a042a1d8ba873ce)   |
+| Day 19 |  Stack vs. Heap Allocation  |  [Link](https://medium.com/c-sharp-progarmming/day-19-of-30-day-net-challenge-stack-vs-heap-allocation-95def98c56ca?sk=1d3c1c0fcac99901acb4a1e95b32d0b5)   |
+| Day 20 |  Task vs. ValueTask  |  [Link](https://medium.com/c-sharp-progarmming/day-20-of-30-day-net-challenge-task-vs-valuetask-9d0c8093f1cd?sk=5e468fa8934d478e5071fd178a548ff4)   |
+| Day 21 |   StringComparison |  [Link](https://medium.com/c-sharp-progarmming/day-21-of-30-day-net-challenge-stringcomparison-de6e709f613c?sk=857f09f384a9a09c76af67729f4b0e5f)   |
+| Day 22 | Array Pool   |  [Link](https://medium.com/c-sharp-progarmming/day-22-of-30-day-net-challenge-use-array-pool-d9cc9092e4dc?sk=b854164f2426b4295bd2675cc36765dc)   |
 | Day 23 |    |  Coming Soon   |
 | Day 24 |    |  Coming Soon   |
 | Day 25 |    |  Coming Soon   |
