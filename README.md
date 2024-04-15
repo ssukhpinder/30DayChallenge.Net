@@ -29,7 +29,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 22 | Array Pool   |  [Link](https://medium.com/c-sharp-progarmming/day-22-of-30-day-net-challenge-use-array-pool-d9cc9092e4dc?sk=b854164f2426b4295bd2675cc36765dc)   |
 | Day 23 | Span<T> over Arrays   |  [Link](https://medium.com/c-sharp-progarmming/day-23-of-30-day-net-challenge-span-t-over-arrays-6ed18417a248?sk=e2117993cbff61f884a1d01378c030d1)  |
 | Day 24 |  Avoid Exceptions in Flow Control  |  [Link](https://medium.com/c-sharp-progarmming/day-24-of-30-day-net-challenge-avoid-exceptions-in-flow-control-5c6a3d18a689?sk=2726e0f56037d685285d8b8cbffd0c4f)   |
-| Day 25 |  Use Exception Filters  |  [Link]([https://medium.com/p/d1413d0d0e2a](https://medium.com/c-sharp-progarmming/day-25-of-30-day-net-challenge-use-exception-filters-d1413d0d0e2a))   |
+| Day 25 |  Use Exception Filters  |  [Link](https://medium.com/c-sharp-progarmming/day-25-of-30-day-net-challenge-use-exception-filters-d1413d0d0e2a)   |
 | Day 26 |  Loop Unrolling  |  Coming Soon   |
 | Day 27 |  Query v/s Method Syntax  |  Coming Soon   |
 | Day 28 |  Use Stackalloc  |  Coming Soon   |
