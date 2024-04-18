@@ -32,7 +32,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 25 |  Use Exception Filters  |  [Link](https://medium.com/c-sharp-progarmming/day-25-of-30-day-net-challenge-use-exception-filters-d1413d0d0e2a)   |
 | Day 26 |  Loop Unrolling  |  [Link](https://medium.com/c-sharp-progarmming/day-26-of-30-day-net-challenge-loop-unrolling-8a84c46bba33)   |
 | Day 27 |  Query v/s Method Syntax  | [Link](https://medium.com/c-sharp-progarmming/day-27-of-30-day-net-challenge-query-v-s-method-syntax-36569545a11e)   |
-| Day 28 |  Use Stackalloc  |  Coming Soon   |
+| Day 28 |  Use Stackalloc  |  [Link](https://medium.com/c-sharp-progarmming/day-28-of-30-day-net-challenge-use-stackalloc-9c2baddb0bbb)   |
 | Day 19 |  Generics & Custom Interfaces  |  Coming Soon   |
 | Day 30 |   XML v/s JSON Serialization |  Coming Soon   |
 
