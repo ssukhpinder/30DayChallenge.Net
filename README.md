@@ -33,7 +33,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 26 |  Loop Unrolling  |  [Link](https://medium.com/c-sharp-progarmming/day-26-of-30-day-net-challenge-loop-unrolling-8a84c46bba33)   |
 | Day 27 |  Query v/s Method Syntax  | [Link](https://medium.com/c-sharp-progarmming/day-27-of-30-day-net-challenge-query-v-s-method-syntax-36569545a11e)   |
 | Day 28 |  Use Stackalloc  |  [Link](https://medium.com/c-sharp-progarmming/day-28-of-30-day-net-challenge-use-stackalloc-9c2baddb0bbb)   |
-| Day 19 |  Generics & Custom Interfaces  |  Coming Soon   |
+| Day 29 |  Generics & Custom Interfaces  |  [Link](https://medium.com/c-sharp-progarmming/day-29-of-30-day-net-challenge-generics-custom-interfaces-c0f67c596a7e)   |
 | Day 30 |   XML v/s JSON Serialization |  Coming Soon   |
 
 # Where to find me
