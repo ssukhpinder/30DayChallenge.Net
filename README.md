@@ -34,7 +34,7 @@ The repository contains sample sources from a 30-day challenge focused on master
 | Day 27 |  Query v/s Method Syntax  | [Link](https://medium.com/c-sharp-progarmming/day-27-of-30-day-net-challenge-query-v-s-method-syntax-36569545a11e)   |
 | Day 28 |  Use Stackalloc  |  [Link](https://medium.com/c-sharp-progarmming/day-28-of-30-day-net-challenge-use-stackalloc-9c2baddb0bbb)   |
 | Day 29 |  Generics & Custom Interfaces  |  [Link](https://medium.com/c-sharp-progarmming/day-29-of-30-day-net-challenge-generics-custom-interfaces-c0f67c596a7e)   |
-| Day 30 |   XML v/s JSON Serialization |  Coming Soon   |
+| Day 30 |   XML v/s JSON Serialization |  [Link](https://medium.com/c-sharp-progarmming/day-30-of-30-day-net-challenge-xml-v-s-json-serialization-a30091d6eeaf?sk=73c4dc0acfc9d8223efd5a2dee274fab)   |
 
 # Where to find me
 
